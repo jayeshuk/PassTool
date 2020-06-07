@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PassTool</string>
+    <string name="head">Check Password Strength</string>
+    <string name="enter_pass">Enter Password: </string>
+    <string name="button_sub">Analyze</string>
+    <string name="head_sub">Analysis Report</string>
+    <string name="len">Characters used - </string>
+    <string name="strength">Strength - </string>
+</resources>
